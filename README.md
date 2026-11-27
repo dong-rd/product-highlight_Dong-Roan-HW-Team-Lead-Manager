@@ -44,16 +44,16 @@ Focused on developing into a strategic R&D leader through:
 
 ## 📄 CAREER DOCUMENTS
 
-- [View CV Profile]([YOUR_LINKEDIN_LINK](https://github.com/dong-rd/product-highlight_Dong-Roan-HW-Team-Lead-Manager/blob/main/CV_Roan-Dinh-Dong_HardwareDesign_2026.pdf))
-- [Product Profile]([YOUR_LINKEDIN_LINK](https://github.com/dong-rd/product-highlight_Dong-Roan-HW-Team-Lead-Manager/blob/main/RnD%20OrgChart%20%26%20Budget%20-%20Dong%20Roan.pdf))
-- [RnD OrgChart/Budget Management ](YOUR_LINKEDIN_LINK)
+- [View CV Profile](https://github.com/dong-rd/product-highlight_Dong-Roan-HW-Team-Lead-Manager/blob/main/CV_Roan-Dinh-Dong_HardwareDesign_2026.pdf)
+- [Product Profile](https://github.com/dong-rd/product-highlight_Dong-Roan-HW-Team-Lead-Manager/blob/main/Dong%20Roan_Product%20Hilight.pdf)
+- [RnD OrgChart/Budget Management ](https://github.com/dong-rd/product-highlight_Dong-Roan-HW-Team-Lead-Manager/blob/main/RnD%20OrgChart%20%26%20Budget%20-%20Dong%20Roan.pdf)
 ---
 
 ## 📬 CONTACT
 
 - Email: dongdinhroan@gmail.com
 - Mobile: +84 - 9 7669 8571
-- GitHub:https://github.com/dong-rd/product-highlight_Dong-Roan-HW-Team-Lead-Manager
+- GitHub: https://github.com/dong-rd/product-highlight_Dong-Roan-HW-Team-Lead-Manager
 
 ---
 
