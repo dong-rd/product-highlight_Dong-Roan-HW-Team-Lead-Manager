@@ -1,5 +1,5 @@
-# ABOUT ME
-**Roan Dinh Dong**
+# About me
+***Roan Dinh Dong***
 ### Senior R&D Engineer | Hardware & Embedded Systems | R&D Leadership
 
 **Engineering Innovation | Product Development | Technology Leadership**
@@ -42,20 +42,9 @@ Focused on developing into a strategic R&D leader through:
 
 ---
 
-## 📂 ENGINEERING PORTFOLIO
-
-Explore selected engineering case studies and technical documentation:
-
-- [Hardware Engineering Portfolio](YOUR_HARDWARE_PORTFOLIO_LINK)
-- [Embedded Systems Portfolio](YOUR_EMBEDDED_PORTFOLIO_LINK)
-- [Low-Power IoT Portfolio](YOUR_IOT_PORTFOLIO_LINK)
-- [Product Development Portfolio](YOUR_PRODUCT_PORTFOLIO_LINK)
-
----
-
 ## 📄 CAREER DOCUMENTS
 
-- [View Professional CV]
+- [View Professional CV](YOUR_LINKEDIN_LINK)
 - [Product Profile](YOUR_LINKEDIN_LINK)
 - [RnD OrgChart ](YOUR_LINKEDIN_LINK)
 ---
