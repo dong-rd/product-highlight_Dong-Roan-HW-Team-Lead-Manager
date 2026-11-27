@@ -32,7 +32,7 @@ Interested in advancing technical leadership, building high-performance R&D team
 |---|---|---|
 | Hardware Architecture | Product Feasibility | Technical Leadership |
 | Analog & Digital Design | D-FMEA | Project Management |
-| PCB Design | EVT / DVT / PVT | Team Development |
+| HDI/Multilayer PCB design and stack-up planning | EVT / DVT / PVT | Team Development |
 | Embedded Intergration System | NPI / Mass Production | Resource Planning |
 | BLE/Antenna & IoT Systems | Verification & Validation | Cross-functional Management |
 | Ultra Low-Power Design | Certification | Technology Roadmap |
