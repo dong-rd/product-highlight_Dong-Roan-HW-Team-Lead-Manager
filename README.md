@@ -1,5 +1,5 @@
-# About me
-***Roan Dinh Dong***
+## About me
+## Roan Dinh Dong
 ### Senior R&D Engineer | Hardware & Embedded Systems | R&D Leadership
 
 **Engineering Innovation | Product Development | Technology Leadership**
@@ -25,8 +25,8 @@ Interested in advancing technical leadership, building high-performance R&D team
 | Hardware Architecture | Product Feasibility | Technical Leadership |
 | Analog & Digital Design | D-FMEA | Project Management |
 | PCB Design | EVT / DVT / PVT | Team Development |
-| Embedded Firmware | NPI / Mass Production | Resource Planning |
-| BLE & IoT Systems | Verification & Validation | Cross-functional Management |
+| Embedded Intergration System | NPI / Mass Production | Resource Planning |
+| BLE/Antenna & IoT Systems | Verification & Validation | Cross-functional Management |
 | Low-Power Design | Certification | Technology Roadmap |
 
 ## 👥 R&D LEADERSHIP DIRECTION
@@ -44,9 +44,9 @@ Focused on developing into a strategic R&D leader through:
 
 ## 📄 CAREER DOCUMENTS
 
-- [View Professional CV](YOUR_LINKEDIN_LINK)
-- [Product Profile](YOUR_LINKEDIN_LINK)
-- [RnD OrgChart ](YOUR_LINKEDIN_LINK)
+- [View CV Profile]([YOUR_LINKEDIN_LINK](https://github.com/dong-rd/product-highlight_Dong-Roan-HW-Team-Lead-Manager/blob/main/CV_Roan-Dinh-Dong_HardwareDesign_2026.pdf))
+- [Product Profile]([YOUR_LINKEDIN_LINK](https://github.com/dong-rd/product-highlight_Dong-Roan-HW-Team-Lead-Manager/blob/main/RnD%20OrgChart%20%26%20Budget%20-%20Dong%20Roan.pdf))
+- [RnD OrgChart/Budget Management ](YOUR_LINKEDIN_LINK)
 ---
 
 ## 📬 CONTACT
