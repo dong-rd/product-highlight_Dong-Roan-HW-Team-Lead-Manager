@@ -1,45 +1,152 @@
-**01. About Me**
+# ABOUT ME
+**Full Name: Roan Dinh Dong**
+### Senior R&D Engineer | Hardware & Embedded Systems | R&D Leadership
 
-Full Name: Roan Dinh Dong
+**Engineering Innovation | Product Development | Technology Leadership**
 
-R&D Engineer | Hardware & Embedded Systems, Team Lead/Manager
+---
 
-Experienced in developing electronic hardware, embedded systems, and ultra low-power IoT solutions.
+## 👨‍💻 PROFESSIONAL SUMMARY
 
-**02. Core Competencies**
+R&D Engineer specializing in Hardware Design, Embedded Systems, and Low-Power IoT Product Development.
 
-Hardware Design & PCB Development
+Experienced in driving engineering activities across the product development lifecycle, from technical feasibility assessment and architecture design to prototyping, verification, certification, and manufacturing transfer.
 
-Analog and Digital Circuit Design
+Strong technical background in electronic hardware, analog and digital circuit design, MCU-based systems, wireless connectivity, and ultra-low-power applications.
 
-Embedded Firmware Development
+Interested in advancing technical leadership, building high-performance R&D teams, and translating technology strategies into reliable and manufacturable products.
 
-STM32 / Nordic BLE Platforms
+---
 
-Low-Power IoT System Design
+## 🎯 CORE COMPETENCIES
 
-Product Development & Technical Validation
+| Engineering | Product Development | Leadership |
+|---|---|---|
+| Hardware Architecture | Product Feasibility | Technical Leadership |
+| Analog & Digital Design | D-FMEA | Project Management |
+| PCB Design | EVT / DVT / PVT | Team Development |
+| Embedded Firmware | NPI / Mass Production | Resource Planning |
+| BLE & IoT Systems | Verification & Validation | Cross-functional Management |
+| Low-Power Design | Certification | Technology Roadmap |
 
-DFMEA and Product Certification
+---
 
-**03. Technical/Management Skills**
+## ⚙️ TECHNICAL EXPERTISE
 
-MCU: STM32, Nordic nRF Series
+**Hardware Engineering**
+- Schematic Design & PCB Development
+- Analog / Digital Circuit Design
+- Power Management & Battery Systems
+- Sensor Interface & Signal Conditioning
+- Component Selection & Technical Evaluation
+- Hardware Debugging and Optimization
 
-Tools: Altium Designer, STM32CubeIDE
+**Embedded Systems**
+- STM32 / Nordic Semiconductor Platforms
+- Embedded Firmware Architecture
+- BLE and Wireless Communication
+- I2C / SPI / UART Protocols
+- Low-Power Embedded Systems
+- MCU Peripheral Integration
 
-Protocols: BLE, I2C, SPI, UART
+**Product Engineering**
+- Technical Feasibility & Specification Review
+- D-FMEA and Risk Assessment
+- Prototype Development and Testing
+- EVT / DVT / PVT / MP
+- Design Verification & Validation
+- NPI and Manufacturing Transfer
+- ATEX / IECEx Certification Support
 
-Testing: Oscilloscope, DMM, Power Analyzer
+---
 
-**04. Product Development**
-https://github.com/dong-rd/product-highlight_Dong-Roan-HW-Team-Lead-Manager/blob/main/Dong%20Roan_Product%20Hilight.pdf
-**Career Documents**
+## 🚀 SELECTED ENGINEERING DOMAINS
 
-Download My CV
+### 1. Low-Power IoT Systems
+- Ultra-low-power hardware architecture
+- Battery lifetime optimization
+- Power management and source switching
+- Low-power MCU and wireless connectivity
 
-Contact
+### 2. Capacitive Sensor Measurement
+- Precision capacitance measurement
+- Analog signal conditioning
+- Current source and comparator architectures
+- Measurement accuracy and calibration
 
-Email: YOUR_EMAIL
+### 3. Embedded Hardware Platforms
+- STM32 and Nordic BLE platforms
+- Sensor and peripheral integration
+- Hardware / Firmware co-design
+- Power and performance optimization
 
-LinkedIn: YOUR_LINKEDIN
+### 4. Product Industrialization
+- Design reviews and engineering risk assessment
+- Hardware verification and validation
+- Manufacturing readiness
+- Product reliability and quality improvement
+
+---
+
+## 🏭 PRODUCT DEVELOPMENT & ENGINEERING MANAGEMENT
+
+- End-to-end product development coordination
+- Technical specification and architecture reviews
+- Engineering resource and project prioritization
+- Hardware / Firmware / Mechanical collaboration
+- Supplier and manufacturing coordination
+- Technical problem-solving and risk management
+- Product quality and reliability improvement
+
+---
+
+## 🏆 CERTIFICATION & COMPLIANCE EXPERIENCE
+
+Technical participation and engineering support in:
+- ATEX certification
+- IECEx certification
+- Third-party technical evaluation
+- Certification testing, documentation and technical Q&A
+
+---
+
+## 👥 R&D LEADERSHIP DIRECTION
+
+Focused on developing into a strategic R&D leader through:
+
+- Building effective multidisciplinary engineering teams
+- Establishing technology and product development roadmaps
+- Improving engineering processes and development efficiency
+- Strengthening design quality and risk management
+- Aligning technical execution with business objectives
+- Developing engineering talent and technical capabilities
+
+---
+
+## 📂 ENGINEERING PORTFOLIO
+
+Explore selected engineering case studies and technical documentation:
+
+- [Hardware Engineering Portfolio](YOUR_HARDWARE_PORTFOLIO_LINK)
+- [Embedded Systems Portfolio](YOUR_EMBEDDED_PORTFOLIO_LINK)
+- [Low-Power IoT Portfolio](YOUR_IOT_PORTFOLIO_LINK)
+- [Product Development Portfolio](YOUR_PRODUCT_PORTFOLIO_LINK)
+
+---
+
+## 📄 CAREER DOCUMENTS
+
+- [Download Professional CV](YOUR_CV_LINK)
+- [LinkedIn Profile](YOUR_LINKEDIN_LINK)
+
+---
+
+## 📬 CONTACT
+
+- Email: YOUR_EMAIL
+- LinkedIn: YOUR_LINKEDIN_LINK
+- GitHub: YOUR_GITHUB_LINK
+
+---
+
+*Engineering reliable products through technical excellence, systematic product development, and effective leadership.*
