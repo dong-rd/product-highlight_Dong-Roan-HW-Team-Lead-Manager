@@ -14,7 +14,9 @@
 
 ## 👨‍💻 PROFESSIONAL SUMMARY
 
-R&D Engineer specializing in Hardware Design, Embedded Systems, and Low-Power IoT Product Development.
+R&D Engineer specializing in Hardware Design, Embedded Systems, Low-Power IoT Product Development and End-to-End Product Development, complemented by experience working across diverse business environments, organizational structures, and international working cultures.
+
+My experience combines hands-on technical expertise with a broader understanding of product development, engineering processes, cross-functional collaboration, and organizational effectiveness.
 
 Experienced in driving engineering activities across the product development lifecycle, from technical feasibility assessment and architecture design to prototyping, verification, certification, and manufacturing transfer.
 
@@ -40,6 +42,7 @@ Interested in advancing technical leadership, building high-performance R&D team
 Focused on developing into a strategic R&D leader through:
 
 - Building effective multidisciplinary engineering teams
+- Experience working with different team sizes and engineering structures.
 - Establishing technology and product development roadmaps
 - Improving engineering processes and development efficiency
 - Strengthening design quality and risk management
