@@ -1,4 +1,5 @@
 **01. About Me**
+
 Full Name: Roan Dinh Dong
 
 R&D Engineer | Hardware & Embedded Systems, Team Lead/Manager
@@ -30,7 +31,9 @@ Tools: Altium Designer, STM32CubeIDE
 Protocols: BLE, I2C, SPI, UART
 
 Testing: Oscilloscope, DMM, Power Analyzer
+
 **04. Product Development**
+https://github.com/dong-rd/product-highlight_Dong-Roan-HW-Team-Lead-Manager/blob/main/Dong%20Roan_Product%20Hilight.pdf
 **Career Documents**
 
 Download My CV
