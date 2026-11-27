@@ -5,6 +5,12 @@
 **Engineering Innovation | Product Development | Technology Leadership**
 
 ---
+## 📄 CAREER DOCUMENTS
+
+- [View CV Profile](https://github.com/dong-rd/product-highlight_Dong-Roan-HW-Team-Lead-Manager/blob/main/CV_Roan-Dinh-Dong_HardwareDesign_2026.pdf)
+- [Product Profile](https://github.com/dong-rd/product-highlight_Dong-Roan-HW-Team-Lead-Manager/blob/main/Dong%20Roan_Product%20Hilight.pdf)
+- [RnD OrgChart/Budget Management ](https://github.com/dong-rd/product-highlight_Dong-Roan-HW-Team-Lead-Manager/blob/main/RnD%20OrgChart%20%26%20Budget%20-%20Dong%20Roan.pdf)
+---
 
 ## 👨‍💻 PROFESSIONAL SUMMARY
 
@@ -27,7 +33,7 @@ Interested in advancing technical leadership, building high-performance R&D team
 | PCB Design | EVT / DVT / PVT | Team Development |
 | Embedded Intergration System | NPI / Mass Production | Resource Planning |
 | BLE/Antenna & IoT Systems | Verification & Validation | Cross-functional Management |
-| Low-Power Design | Certification | Technology Roadmap |
+| Ultra Low-Power Design | Certification | Technology Roadmap |
 
 ## 👥 R&D LEADERSHIP DIRECTION
 
@@ -39,22 +45,12 @@ Focused on developing into a strategic R&D leader through:
 - Strengthening design quality and risk management
 - Aligning technical execution with business objectives
 - Developing engineering talent and technical capabilities
-
 ---
-
-## 📄 CAREER DOCUMENTS
-
-- [View CV Profile](https://github.com/dong-rd/product-highlight_Dong-Roan-HW-Team-Lead-Manager/blob/main/CV_Roan-Dinh-Dong_HardwareDesign_2026.pdf)
-- [Product Profile](https://github.com/dong-rd/product-highlight_Dong-Roan-HW-Team-Lead-Manager/blob/main/Dong%20Roan_Product%20Hilight.pdf)
-- [RnD OrgChart/Budget Management ](https://github.com/dong-rd/product-highlight_Dong-Roan-HW-Team-Lead-Manager/blob/main/RnD%20OrgChart%20%26%20Budget%20-%20Dong%20Roan.pdf)
----
-
 ## 📬 CONTACT
 
 - Email: dongdinhroan@gmail.com
 - Mobile: +84 - 9 7669 8571
 - GitHub: https://github.com/dong-rd/product-highlight_Dong-Roan-HW-Team-Lead-Manager
-
 ---
 
-*Engineering reliable products through technical excellence, systematic product development, and effective leadership.*
+*Engineering reliable products through technical excellence, systematic product development, beside and sharing with team staff and effective leadership.*
